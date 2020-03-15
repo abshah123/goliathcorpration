@@ -55,15 +55,15 @@ $smtp = array();
 
 $smtp['enabled'] = 1; // Do you want the contact form to send emails via an SMTP server?   Yes = 1   No = 0
 
-$smtp['host'] = 'smtp.gmail.com'; // SMTP server host (e.g. smtp.gmail.com)
+$smtp['host'] = 'pop.gmail.com'; // SMTP server host (e.g. smtp.gmail.com)
    
 $smtp['user'] = 'aabid.test123@gmail.com'; // User name to authenticate yourself on the SMTP server (could be the aforementioned email address!)
 
 $smtp['password'] = 'Aabid@7894'; // Password to authenticate yourself on the SMTP server.
 
-$smtp['encrpytion'] = 'tls'; // Type of encryption used when connected to your SMTP server: '', 'ssl' or 'tls'
+$smtp['encrpytion'] = 'TLS'; // Type of encryption used when connected to your SMTP server: '', 'ssl' or 'tls'
 
-$smtp['port'] = 587; // TCP port, at which your SMTP server can be reached.
+$smtp['port'] = 995; // TCP port, at which your SMTP server can be reached.
 
 $smtp['debug'] = 0; // Debug level (0 - 4)
     
