@@ -61,9 +61,9 @@ $smtp['user'] = 'aabid.test123@gmail.com'; // User name to authenticate yourself
 
 $smtp['password'] = 'Aabid@7894'; // Password to authenticate yourself on the SMTP server.
 
-$smtp['encrpytion'] = 'TLS'; // Type of encryption used when connected to your SMTP server: '', 'ssl' or 'tls'
+$smtp['encrpytion'] = 'ssl'; // Type of encryption used when connected to your SMTP server: '', 'ssl' or 'tls'
 
-$smtp['port'] = 995; // TCP port, at which your SMTP server can be reached.
+$smtp['port'] = 587; // TCP port, at which your SMTP server can be reached.
 
 $smtp['debug'] = 0; // Debug level (0 - 4)
     
