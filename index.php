@@ -8,19 +8,21 @@
 
     <link type="text/css" media="all" href="./css/autoptimize/css/autoptimize_40fb324b59b9929b354b140cbc06a43b.css"
         rel="stylesheet" />
-    <link type="text/css" media="only screen and (max-width: 768px)"
+    <!-- <link type="text/css" media="only screen and (max-width: 768px)"
         href="./css/autoptimize/css/autoptimize_dcb2de333eec7ab4ae31385ed8d6a393.css" rel="stylesheet" />
-    <title>GoliatathCorpration</title>
+     -->
+        <title>Goliath Aviation Enterprise</title>
     <link rel="stylesheet" href="./css/font-awesome.css">
 
-    <link rel='stylesheet' id='alavion-google-fonts-css' href='./fonts/fonts.css' type='text/css' media='all' />
-    <link rel='stylesheet' id='alavion-fontello-css'
+    <link rel='stylesheet' id='goliath-google-fonts-css' href='./fonts/fonts.css' type='text/css' media='all' />
+    <!-- <link rel='stylesheet' id='goliath-fontello-css'
         href='./css/autoptimize/css/autoptimize_single_e214eafde20fe36b6122924d5b590988.css' type='text/css'
-        media='all' />
+        media='all' /> -->
         <link rel="icon" href="./img/G1 Logo G.png"
-        sizes="32x32" />
+        />
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-datepicker/1.3.0/css/datepicker.css" rel="stylesheet" type="text/css" /> 
     <script type='text/javascript' src='./js/jquery/jquery.js'></script>
-
+    
     <noscript>
         <style>
             .woocommerce-product-gallery {
@@ -158,19 +160,17 @@ background-image: url(./img/airplane-shape.png) !important;
     }
     
     nav.navbar .logo img {
-        max-height: 100px !important;
-        max-width: 100px !important;
+        max-height: 58px !important;
+        max-width: 170px !important;
         height: 100px !important;
 
     }
 
 </style>
-    <!-- <link rel="icon" href="http://goliathcorpration/wp-content/uploads/2018/02/cropped-favicon-2-48x48.png"
-        sizes="32x32" />
-    <link rel="icon" href="http://goliathcorpration/wp-content/uploads/2018/02/cropped-favicon-2-300x300.png"
-        sizes="192x192" />
+    <link rel="icon" href="./img/G1 Logo G.png" sizes="32x32" />
+    <link rel="icon" href="./img/G1 Logo G.png" sizes="192x192" />
     <link rel="apple-touch-icon-precomposed"
-        href="http://goliathcorpration/wp-content/uploads/2018/02/cropped-favicon-2-300x300.png" /> -->
+        href="./img/G1 Logo G.png" />
 
     <noscript>
         <style type="text/css">
@@ -189,12 +189,12 @@ background-image: url(./img/airplane-shape.png) !important;
     <div id="ltx-preloader"></div>
     <div class="ltx-content-wrapper ">
         <div
-            class="header-wrapper  header-h1   header-parallax   wrapper-navbar-layout-transparent ltx-pageheader-disabled">
+            class="header-wrapper  header-h1   header-parallax   wrapper-navbar-layout-transparent">
             <div id="nav-wrapper" class="navbar-layout-transparent">
                 <nav class="navbar" data-spy="" data-offset-top="0">
                     <div class="container">
                         <div class="navbar-logo ">
-                            <a class="logo" href="index.html/"><img src="./img/G1 Logo G.png" alt="GoliathCorpration"></a>
+                            <a class="logo" href="index.html"><img src="./img/G1 Logo with name.png" alt="GoliathCorpration"></a>
                         </div>
                         <div id="navbar" class="navbar-collapse collapse navbar-mobile-white"
                             data-mobile-screen-width="1198">
@@ -502,14 +502,7 @@ background-image: url(./img/airplane-shape.png) !important;
                                                      <div class="wpb_text_column wpb_content_element ">
                                                             <div class="wpb_wrapper">
                                                                 <p style="text-align: center;">
-                                                                                                We make Global Trading
-                                                                                                readily accessible for
-                                                                                                everyone. On top of
-                                                                                                that, our end to end
-                                                                                                logistics chain ensures
-                                                                                                that you save almost 60%
-                                                                                                on your dealings around
-                                                                                                the worldwide.
+                                                                  We make Global Trading readily accessible for everyone. On top of that, our end to end logistics chain ensures that you save almost 60% on your dealings around the worldwide.
                                                                                             </p>
                                                                                             <p style="text-align: center;">
                                                                                                 
@@ -585,7 +578,7 @@ background-image: url(./img/airplane-shape.png) !important;
                                                             <a href="service.html"
                                                                 class="image"> <img width="110" height="110"
                                                                     src="./img/Corporate Aircraft.png"
-                                                                    class="attachment-alavion-tiny size-alavion-tiny"
+                                                                    class="attachment-goliath-tiny size-goliath-tiny"
                                                                     alt="" sizes="(max-width: 110px) 100vw, 110px" style="height: 110px;" />
                                                             </a>
                                                             <div class="descr"> <a href="service.html">
@@ -602,7 +595,7 @@ background-image: url(./img/airplane-shape.png) !important;
                                                             <a href="service.html"
                                                                 class="image"> <img width="110" height="110"
                                                                     src="./img/Aviation parts Supply.jpg"
-                                                                    class="attachment-alavion-tiny size-alavion-tiny"
+                                                                    class="attachment-goliath-tiny size-goliath-tiny"
                                                                     alt="" sizes="(max-width: 110px) 100vw, 110px" style="height: 110px;" />
                                                             </a>
                                                             <div class="descr"> <a href="service.html">
@@ -618,7 +611,7 @@ background-image: url(./img/airplane-shape.png) !important;
                                                             <a href="service.html"
                                                                 class="image"> <img width="110" height="110"
                                                                     src="./img/Military Assistance.jpg"
-                                                                    class="attachment-alavion-tiny size-alavion-tiny"
+                                                                    class="attachment-goliath-tiny size-goliath-tiny"
                                                                     alt="" sizes="(max-width: 110px) 100vw, 110px" style="height: 110px;" />
                                                             </a>
                                                             <div class="descr"> <a href="service.html">
@@ -889,7 +882,7 @@ background-image: url(./img/airplane-shape.png) !important;
                                                             <img width="755" height="619"
                                                                 src="./img/Aviation Services2.jpg"
                                                                 class="vc_single_image-img attachment-full"
-                                                                alt="" style="height: 394px;"/></div>
+                                                                alt="" style="height: 391px;"/></div>
                                                     </figure>
                                                     
                                                 </div>
@@ -1078,7 +1071,7 @@ background-image: url(./img/airplane-shape.png) !important;
                                                  Get your flight</h5>
                                              <h3
                                                  class="header ltx-sr-id-like_sc_header_658192717604577462 ltx-sr ltx-sr-effect-fade_in ltx-sr-el-block ltx-sr-delay-0 ltx-sr-duration-1000 ltx-sr-sequences-0">
-                                                 Online request for private flight</h3>
+                                                 Online request for Corporate flight</h3>
                                          </div>
                                          <div class="es-resp">
                                              <div class="visible-xl" style="height: 32px;"></div>
@@ -1194,19 +1187,22 @@ background-image: url(./img/airplane-shape.png) !important;
                                                                                      </div>
                                                                                  </div>
                                                                                  <div class="row">
-                                                                                     <div class="col-lg-3">
+                                                                                     <div class="col-lg-6">
                                                                                          <label>Depart
-                                                                                             date:</label><span
+                                                                                             date:</label>
+                                                                                             
+                                                                                             <span
                                                                                              class="ltx-form-date"><span
                                                                                                  class="wpcf7-form-control-wrap date-240"><input
                                                                                                      type="text"
                                                                                                      name="date-240"
                                                                                                      value=""
                                                                                                      size="40"
-                                                                                                     class="wpcf7-form-control wpcf7-text"
+                                                                                                     class="wpcf7-form-control wpcf7-text datepicker"
                                                                                                      aria-invalid="false" /></span></span>
+                                                                                                     
                                                                                      </div>
-                                                                                     <div class="col-lg-3">
+                                                                                     <div class="col-lg-6">
                                                                                          <label>Return
                                                                                              date:</label><span
                                                                                              class="ltx-form-date"><span
@@ -1215,10 +1211,10 @@ background-image: url(./img/airplane-shape.png) !important;
                                                                                                      name="date-241"
                                                                                                      value=""
                                                                                                      size="40"
-                                                                                                     class="wpcf7-form-control wpcf7-text"
+                                                                                                     class="wpcf7-form-control wpcf7-text datepicker"
                                                                                                      aria-invalid="false" /></span></span>
                                                                                      </div>
-                                                                                     <div class="col-lg-3">
+                                                                                     <div class="col-lg-6">
                                                                                          <label>Passengers:</label><span
                                                                                              class="wpcf7-form-control-wrap menu-599"><select
                                                                                                  name="menu-599"
@@ -1246,7 +1242,7 @@ background-image: url(./img/airplane-shape.png) !important;
                                                                                                  </option>
                                                                                              </select></span>
                                                                                      </div>
-                                                                                     <div class="col-lg-3">
+                                                                                     <div class="col-lg-6">
                                                                                          <label>Baggage:</label><span
                                                                                              class="wpcf7-form-control-wrap menu-560"><select
                                                                                                  name="menu-560"
@@ -1414,11 +1410,11 @@ background-image: url(./img/airplane-shape.png) !important;
                                                                                              date:</label><span
                                                                                              class="ltx-form-date"><span
                                                                                                  class="wpcf7-form-control-wrap date-240"><input
-                                                                                                     type="text"
+                                                                                                     type="text" 
                                                                                                      name="date-240"
                                                                                                      value=""
                                                                                                      size="40"
-                                                                                                     class="wpcf7-form-control wpcf7-text"
+                                                                                                     class="wpcf7-form-control wpcf7-text datepicker"
                                                                                                      aria-invalid="false" /></span></span>
                                                                                      </div>
                                                                                  </div>
@@ -1566,7 +1562,7 @@ background-image: url(./img/airplane-shape.png) !important;
                                  </div>
                              </div>
                              <!-- get in touch -->
-                             <div class="wpb_column vc_column_container vc_col-sm-12 vc_col-lg-4 vc_col-md-4 vc_col-has-fill text-align-center" style="height: 581px;">
+                             <div class="wpb_column vc_column_container vc_col-sm-12 vc_col-lg-4 vc_col-md-4 vc_col-has-fill text-align-center" >
 
                                  <div class="vc_column-inner vc_custom_1551316223973">
                                      <div class="wpb_wrapper">
@@ -1597,9 +1593,18 @@ background-image: url(./img/airplane-shape.png) !important;
                                                    <div class="col-lg-12"> <span class="wpcf7-form-control-wrap field-header2">
                                                        <input type="text" name="field-header2" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required" aria-required="true" aria-invalid="false" placeholder="Your email"></span>
                                                     </div></div>
-                                                    <div class="row"><div class="col-md-12"> <span class="wpcf7-form-control-wrap field-header-3"><textarea name="field-header-3" cols="40" rows="10" class="wpcf7-form-control wpcf7-textarea" aria-invalid="false" placeholder="Message"></textarea></span></div></div><div class="row"><div class="col-md-12"> <span class="ltx-btn-wrap"><span class="ltx-btn-wrap">
+                                                    <div class="row">
+                                                        <div class="col-md-12"> 
+                                                            <span class="wpcf7-form-control-wrap field-header-3">
+                                                                <textarea name="field-header-3" cols="40" rows="10" class="wpcf7-form-control wpcf7-textarea" aria-invalid="false" placeholder="Message"></textarea></span>
+                                                            </div>
+                                                        </div>
+                                                        <div class="row">
+                                                            <div class="col-md-12"> 
+                                                                <span class="ltx-btn-wrap">
+                                                                    <span class="ltx-btn-wrap">
                                                         
-                                                        <input type="submit" value="Submit" class="wpcf7-form-control wpcf7-submit btn"></span></span><span class="ajax-loader"></span></div></div><div class="wpcf7-response-output wpcf7-display-none"></div></form>
+                                                        <input type="submit" value="Submit" class="btn  btn-second color-hover-white   vc_custom_1551314063541"></span></span><span class="ajax-loader"></span></div></div><div class="wpcf7-response-output wpcf7-display-none"></div></form>
                                         <!--  end -->
                                         
                                         
@@ -1668,8 +1673,8 @@ background-image: url(./img/airplane-shape.png) !important;
                                          </div>
                                          <div class="wpb_text_column wpb_content_element ">
                                              <div class="wpb_wrapper">
-                                                 <p>You can get spare parts and other services for almost all
-                                                     Airlines, still some of the most deals with are here.
+                                                 <p>You can get aviation  spare parts and other aviation  services for almost all
+                                                     Airlines, here is a list for most serviced airliners.
                                                  </p>
                                                  <p><a class="more-link" href="airlines.html">Read More</a></p>
                                              </div>
@@ -1701,8 +1706,8 @@ background-image: url(./img/airplane-shape.png) !important;
                                                              <a href="airlines.html"
                                                                  class="image"> <img 
                                                                      src="./img/airbus.jpeg"
-                                                                     class="attachment-alavion-service-square size-alavion-service-square img-responsive "
-                                                                     alt="" width="364" height="364" style="height: 238px;">
+                                                                     class="attachment-goliath-service-square size-goliath-service-square img-responsive "
+                                                                     alt="" width="364" height="364" style="height: 364px;">
                                                              </a>
                                                              <div class="descr">
                                                                  <h4 class="header"> AIRBUS
@@ -1717,9 +1722,9 @@ background-image: url(./img/airplane-shape.png) !important;
                                                             <a href="airlines.html"
                                                                 class="image"> <img width="364" height="364"
                                                                     src="./img/Antonov1.jpg"
-                                                                    class="attachment-alavion-service-square img-responsive size-alavion-service-square"
+                                                                    class="attachment-goliath-service-square img-responsive size-goliath-service-square"
                                                                     alt=""
-                                                                    sizes="(max-width: 364px) 100vw, 364px" style="height: 238px;"/>
+                                                                    sizes="(max-width: 364px) 100vw, 364px" style="height: 364px;"/>
                                                             </a>
                                                             <div class="descr">
                                                                 <h4 class="header"> ANTONOV
@@ -1735,9 +1740,9 @@ background-image: url(./img/airplane-shape.png) !important;
                                                             <a href="airlines.html"
                                                                 class="image"> <img width="364" height="364"
                                                                     src="./img/ATR.jpg"
-                                                                    class="attachment-alavion-service-square size-alavion-service-square"
+                                                                    class="attachment-goliath-service-square size-goliath-service-square"
                                                                     alt="ATR"
-                                                                    sizes="(max-width: 364px) 100vw, 364px" style="height: 238px" />
+                                                                    sizes="(max-width: 364px) 100vw, 364px" style="height: 364px" />
                                                             </a>
                                                             <div class="descr">
                                                                 <h4 class="header"> ATR
@@ -1753,9 +1758,9 @@ background-image: url(./img/airplane-shape.png) !important;
                                                             <a href="airlines.html"
                                                                 class="image"> <img width="364" height="364"
                                                                     src="./img/Boeing.jpg"
-                                                                    class="attachment-alavion-service-square img-responsive size-alavion-service-square"
+                                                                    class="attachment-goliath-service-square img-responsive size-goliath-service-square"
                                                                     alt="Boeing"
-                                                                    sizes="(max-width: 364px) 100vw, 364px" style="height: 238px;"/>
+                                                                    sizes="(max-width: 364px) 100vw, 364px" style="height: 364px;"/>
                                                             </a>
                                                             <div class="descr">
                                                                 <h4 class="header"> BOEING
@@ -1771,10 +1776,10 @@ background-image: url(./img/airplane-shape.png) !important;
                                                             <a href="airlines.html"
                                                                 class="image"> <img width="364" height="364"
                                                                     src="./img/Bombardier.jpg"
-                                                                    class="attachment-alavion-service-square img-responsive size-alavion-service-square"
+                                                                    class="attachment-goliath-service-square img-responsive size-goliath-service-square"
                                                                     alt=""
                                                                     
-                                                                    sizes="(max-width: 364px) 100vw, 364px" style="height: 238px;"/>
+                                                                    sizes="(max-width: 364px) 100vw, 364px" style="height: 364px;"/>
                                                             </a>
                                                             <div class="descr">
                                                                 <h4 class="header"> Bombardier Aerospace 
@@ -1790,9 +1795,9 @@ background-image: url(./img/airplane-shape.png) !important;
                                                             <a href="airlines.html"
                                                                 class="image"> <img width="364" height="364"
                                                                     src="./img/McDonnell Douglas.jpg"
-                                                                    class="attachment-alavion-service-square img-responsive size-alavion-service-square"
+                                                                    class="attachment-goliath-service-square img-responsive size-goliath-service-square"
                                                                     alt=""
-                                                                    sizes="(max-width: 364px) 100vw, 364px" style="height: 238px;"/>
+                                                                    sizes="(max-width: 364px) 100vw, 364px" style="height: 364px;"/>
                                                             </a>
                                                             <div class="descr">
                                                                 <h4 class="header"> MCDONNEL DOUGLAS
@@ -1808,9 +1813,9 @@ background-image: url(./img/airplane-shape.png) !important;
                                                             <a href="airlines.html"
                                                                 class="image"> <img 
                                                                     src="./img/embraer.jpg"
-                                                                    class="attachment-alavion-service-square size-alavion-service-square img-responsive "
+                                                                    class="attachment-goliath-service-square size-goliath-service-square img-responsive "
                                                                     alt="" width="364" height="364"
-                                                                    style="height: 238px;"/>
+                                                                    style="height: 364px;"/>
                                                             </a>
                                                             <div class="descr">
                                                                 <h4 class="header">EMBRAER
@@ -1825,8 +1830,8 @@ background-image: url(./img/airplane-shape.png) !important;
                                                             <a href="airlines.html"
                                                                 class="image"> <img 
                                                                     src="./img/fokker.jpg"
-                                                                    class="attachment-alavion-service-square size-alavion-service-square img-responsive "
-                                                                    alt="" width="364" height="364" style="height: 238px;"/>
+                                                                    class="attachment-goliath-service-square size-goliath-service-square img-responsive "
+                                                                    alt="" width="364" height="364" style="height: 364px;"/>
                                                             </a>
                                                             <div class="descr">
                                                                 <h4 class="header">FOKKER
@@ -1922,7 +1927,7 @@ background-image: url(./img/airplane-shape.png) !important;
                                         <div class="wpb_text_column wpb_content_element ">
                                             <div class="wpb_wrapper">
                                                 <div class="heading header-subheader color-white subcolor-main">
-                                                    <h6 class="subheader">Want to know about our offers first?</h6>
+                                                    <h6 class="subheader">Want updates about us?</h6>
                                                     <h5 class="header">Subscribe our newsletter</h5>
                                                 </div>
                                                 <form id="mc4wp-form-1" class="mc4wp-form mc4wp-form-806" method="post"
@@ -1959,16 +1964,17 @@ background-image: url(./img/airplane-shape.png) !important;
         <section id="ltx-widgets-footer" class="ltx-fw">
             <div class="container">
                 <div class="row">
-                    <div class="col-md-8 col-md-offset-2 text-align-center    clearfix">
+                    <div class="col-md-8 col-md-offset-2 text-align-center">
                         <div class="footer-widget-area">
-                            <a class="logo" href="#"><img src="./img/G1 Logo G.png"
-                                    alt="goliathcorpration" style="width: 100px;" ></a>
+                            <a class="logo" href="#" style="max-height: 500px;"><img src="./img/G1 Logo with name.png"
+                                    alt="goliathcorpration"  ></a>
+                                    
                             <div id="text-14" class="widget widget_text">
                                 <div class="textwidget">
                                     <p>
-                                        <br /> GAE is the first Global Aviation Trading Platform for everything
-                                        Aviation. Through the years, Goliath has ensured the transparency of Aviation
-                                        trades, enhanced Security and monitoring of global trades and Tenders.
+                                         GAE is the first Global Aviation Trading Platform for everything Aviation. Through</br>
+                                                the years, Goliath has ensured the transparency of Aviation trades, enhanced</br>
+                                                            Security and monitoring of global trades and Tenders. 
                                     </p>
                                 </div>
                             </div>
@@ -1976,7 +1982,7 @@ background-image: url(./img/airplane-shape.png) !important;
                                 <ul>
                                     <li><a href="#" target="_self"><span class="fa fa-twitter"></span></a></li>
                                     <li><a href="#" target="_self"><span class="fa fa-facebook-f"></span></a></li>
-                                    <li><a href="#" target="_self"><span class="fa fa-instagram"></span></a></li>
+                                    <li><a href="https://www.linkedin.com/company/goliath-aviation-enterprise" target="_self"><span class="fa fa-linkedin"></span></a></li>
                                     <li><a href="#" target="_self"><span class="fa fa-google-plus"></span></a></li>
                                 </ul>
                             </div>
@@ -1990,7 +1996,7 @@ background-image: url(./img/airplane-shape.png) !important;
         </section>
         <footer class="copyright-block copyright-layout-default">
             <div class="container">
-                <p><a href="https://www.goliathcorporation.com/">GoliathCorporation</a> © All Rights Reserved - 2020</p>
+                <p><a href="https://www.goliathcorporation.com/">Copyright © Goliath Aviation Corporation-2020</a> </p>
             </div>
         </footer>
     </div>
@@ -2000,6 +2006,24 @@ background-image: url(./img/airplane-shape.png) !important;
     <!--[if lte IE 9]> <script type='text/javascript' src='http://goliathcorpration/wp-content/plugins/mailchimp-for-wp/assets/js/third-party/placeholders.min.js'></script> <![endif]-->
     <script type="text/javascript" defer
         src="./js/autoptimize/autoptimize_5d2ed3ea2c2016970b1cbaae14962132.js"></script>
-</body>
+       
+       <!-- <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js"></script>
+         -->
+       <script src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-datepicker/1.3.0/js/bootstrap-datepicker.js"></script>
+    
+    
+        <script type='text/javascript'>
+        jQuery(document ).ready(function() {
+            // jQuery('.datepicker').datepicker({format: "dd/mm/yyyy"});
+
+
+            jQuery(".datepicker").datepicker({ 
+                autoclose: true, 
+                todayHighlight: true,
+                format: "dd/mm/yyyy"
+        }).datepicker('update', new Date());
+         });
+        </script>
+    </body>
 
 </html>
