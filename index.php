@@ -190,8 +190,8 @@ background-image: url(./img/airplane-shape.png) !important;
                 <nav class="navbar" data-spy="" data-offset-top="0">
                     <div class="container">
                         <div class="navbar-logo ">
-                            <a class="logo" href="index.html/"><img src="./img/logo.jpg" alt="GoliathCorpration"
-                                    srcset="./img/logo.jpg"></a>
+                            <a class="logo" href="index.html/"><img src="./img/G1 Logo G.png" alt="GoliathCorpration"
+                                    srcset="./img/G1 Logo G.png"></a>
                         </div>
                         <div id="navbar" class="navbar-collapse collapse navbar-mobile-white"
                             data-mobile-screen-width="1198">
@@ -1970,8 +1970,8 @@ background-image: url(./img/airplane-shape.png) !important;
                 <div class="row">
                     <div class="col-md-8 col-md-offset-2 text-align-center    clearfix">
                         <div class="footer-widget-area">
-                            <a class="logo" href="./goliathcorpration/logo.jpg"><img src=".img/logo.jpeg"
-                                    alt="goliathcorpration" srcset="./img/logo.jpg"></a>
+                            <a class="logo" href="./goliathcorpration/G1 Logo G.png"><img src=".img/logo.jpeg"
+                                    alt="goliathcorpration" srcset="./img/G1 Logo G.png"></a>
                             <div id="text-14" class="widget widget_text">
                                 <div class="textwidget">
                                     <p>
