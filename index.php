@@ -34,12 +34,132 @@ background-image: url(./img/airplane-shape.png) !important;
 
 .vc_custom_1551316223973 {
     margin-top: 45px !important;
-    background-image: url(./img/get_in_touch.png) !important;
+    background-image: url(./img/Get_in_Touch_background.jpg) !important;
     background-position: center !important;
     background-repeat: no-repeat !important;
     background-size: cover !important;
     border-radius: 10px !important;
 }
+.vc_custom_1575293892776 {
+        margin-top: -210px !important;
+    }
+    
+   
+    
+    .vc_custom_1551124619836 {
+        padding-top: 64px !important;
+        padding-bottom: 64px !important;
+    }
+    
+    
+    .vc_custom_1548798469212 {
+        padding-top: 0px !important;
+    }
+    
+    .vc_custom_1551120794860 {
+        margin-top: 0px !important;
+        margin-bottom: 0px !important;
+    }
+    
+    .vc_custom_1551395229549 {
+        margin-top: 0px !important;
+    }
+    
+    .vc_custom_1551122352549 {
+        margin-top: 0px !important;
+        margin-bottom: 0px !important;
+    }
+    
+    .vc_custom_1551372981399 {
+        background-position: center !important;
+        background-repeat: no-repeat !important;
+        background-size: cover !important;
+    }
+    
+    .vc_custom_1551313890505 {
+        margin-bottom: 0px !important;
+    }
+    
+    .vc_custom_1551313977022 {
+        margin-top: 0px !important;
+    }
+    
+    .vc_custom_1551309054799 {
+        margin-top: 0px !important;
+    }
+    
+    .vc_custom_1551314063541 {
+        margin-bottom: 0px !important;
+    }
+    
+    .vc_custom_1551309233730 {
+        border-top-width: 1px !important;
+        padding-top: 96px !important;
+        border-top-color: #353642 !important;
+        border-top-style: solid !important;
+    }
+    
+    .vc_custom_1551373759095 {
+        margin-top: 0px !important;
+    }
+    
+    .vc_custom_1551124333959 {
+        margin-top: 0px !important;
+        margin-bottom: 0px !important;
+    }
+    
+    
+    .vc_custom_1551300029878 {
+        margin-top: 0px !important;
+    }
+    
+    .vc_custom_1551377675079 {
+        padding-top: 96px !important;
+    }
+    
+    .vc_custom_1551373765829 {
+        margin-top: 0px !important;
+    }
+    
+    .vc_custom_1551131154294 {
+        margin-bottom: 16px !important;
+    }
+    
+    .vc_custom_1551127048576 {
+        margin-top: 36px !important;
+        margin-bottom: 0px !important;
+    }
+    :root {
+        --black: #1E1F2D;
+        --black-darker: #000000;
+        --black-text: rgba(30, 31, 45, .7);
+        --black-light: rgba(30, 31, 45, .2);
+        --gray: #F6F4EF;
+        --gray-lighter: rgba(246, 244, 239, .5);
+        --white: #FFFFFF;
+        --main: #D3C19F;
+        --main-darker: #b5a381;
+        --main-lighter: rgba(211, 193, 159, .5);
+        --red: #AA3F44;
+        --font-main: 'Merriweather';
+        --font-headers: 'Barlow Condensed';
+        --font-subheaders: 'Barlow Condensed';
+    }
+    
+    
+    
+    #nav-wrapper.navbar-layout-transparent nav.navbar {
+        background-color: rgba(30, 31, 45, 0);
+    }
+    
+    #nav-wrapper.navbar-layout-transparent nav.navbar.darkest {
+        background-color: rgba(30, 31, 45, 0.95);
+    }
+    
+    nav.navbar .logo img {
+        max-height: 58px !important;
+    }
+
 </style>
     <!-- <link rel="icon" href="http://goliathcorpration/wp-content/uploads/2018/02/cropped-favicon-2-48x48.png"
         sizes="32x32" />
@@ -55,6 +175,8 @@ background-image: url(./img/airplane-shape.png) !important;
             }
         </style>
     </noscript>
+
+
 
 </head>
 
@@ -88,18 +210,20 @@ background-image: url(./img/airplane-shape.png) !important;
                                     class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3557">
                                     <a href="about-us.html"><span>ABOUT US</span></a>
                                 </li>
-                                <li id="menu-item-619"
-                                    class="menu-item menu-item-type-custom menu-item-object-custom  menu-item-619">
-                                    <a href="service.html"><span>SERVICES</span></a>
-
+                                <li id="menu-item-619" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-619"><a href="#"><span>SERVICES</span></a>
+                                    <ul class="sub-menu">
+                                        <li id="menu-item-623" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-623"><a href="service.html"><span> CORPORATE AIRCRAFT</span></a></li>
+                                        <li id="menu-item-622" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-622"><a href="service.html"><span>AVIATION PARTS SUPPLY</span></a></li>
+                                        <li id="menu-item-621" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-621"><a href="service.html"><span> MILITARY ASSISTANCE</span></a></li>
+                                        <li id="menu-item-620" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-620"><a href="service.html"><span> AEROSPACE SATELLITE PROGRAMS</span></a></li>
+                                    </ul>
                                 </li>
-                                
                                 <li id="menu-item-59"
                                 class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-has-mega-menu menu-item-61">
                                 <a><span>AIRLINERS</span></a>
                                 <div class="mega-menu col-lg-12">
                                     <ul class="sub-menu mega-menu-row ">
-                                        <li id="menu-item-783" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children mega-menu-col menu-item-783 col-sm-12 col-lg-2"><a href="airlines.html"><span>AIRBUS A300</span></a>
+                                        <li id="menu-item-783" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children mega-menu-col menu-item-783 "><a href="airlines.html"><span>AIRBUS A300</span></a>
                                             <ul class="sub-menu">
                                                 <li id="menu-item-597" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-icon menu-item-597"><a href="airlines.html" class="fa-dot-circle-o"><span>Airbus A300B1</span></a></li>
                                                 <li id="menu-item-597" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-icon menu-item-597"><a href="airlines.html" class="fa-dot-circle-o"><span>Airbus A300B2</span></a></li>
@@ -108,7 +232,7 @@ background-image: url(./img/airplane-shape.png) !important;
                                                 <li id="menu-item-597" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-icon menu-item-597"><a href="airlines.html" class="fa-dot-circle-o"><span>Airbus A300-600ST Beluga</span></a></li>
                                             </ul>
                                         </li>
-                                        <li id="menu-item-783" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children mega-menu-col menu-item-783 col-sm-12 col-lg-2"><a href="airlines.html"><span>AIRBUS A310</span></a>
+                                        <li id="menu-item-784" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children mega-menu-col menu-item-783 "><a href="airlines.html"><span>AIRBUS A310</span></a>
                                             <ul class="sub-menu sub-menu-has-icons">
                                                 <li id="menu-item-597" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-icon menu-item-597"><a href="airlines.html" class="fa-dot-circle-o"><span>Airbus A310-200</span></a></li>
                                                 <li id="menu-item-597" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-icon menu-item-597"><a href="airlines.html" class="fa-dot-circle-o"><span>Airbus A310-300</span></a></li>
@@ -118,7 +242,7 @@ background-image: url(./img/airplane-shape.png) !important;
                                                 <li id="menu-item-597" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-icon menu-item-597"><a href="airlines.html" class="fa-dot-circle-o"><span>Airbus  A319neo</span></a></li>
                                             </ul>
                                         </li>
-                                        <li id="menu-item-783" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children mega-menu-col menu-item-783 col-sm-12 col-lg-2"><a href="airlines.html"><span>AIRBUS A320</span></a>
+                                        <li id="menu-item-783" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children mega-menu-col menu-item-783 "><a href="airlines.html"><span>AIRBUS A320</span></a>
                                             <ul class="sub-menu sub-menu-has-icons">
                                                 <li id="menu-item-597" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-icon menu-item-597"><a href="airlines.html" class="fa-dot-circle-o"><span>Airbus A320-100</span></a></li>
                                                 <li id="menu-item-597" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-icon menu-item-597"><a href="airlines.html" class="fa-dot-circle-o"><span>Airbus A320-200</span></a></li>
@@ -129,7 +253,7 @@ background-image: url(./img/airplane-shape.png) !important;
                                                 <li id="menu-item-597" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-icon menu-item-597"><a href="airlines.html" class="fa-dot-circle-o"><span>Airbus  A321neo</span></a></li>
                                             </ul>
                                         </li>
-                                        <li id="menu-item-783" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children mega-menu-col menu-item-783 col-sm-12 col-lg-2"><a href="airlines.html"><span>AIRBUS A330</span></a>
+                                        <li id="menu-item-783" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children mega-menu-col menu-item-783 "><a href="airlines.html"><span>AIRBUS A330</span></a>
                                             <ul class="sub-menu sub-menu-has-icons">
                                                 <li id="menu-item-597" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-icon menu-item-597"><a href="airlines.html" class="fa-dot-circle-o"><span>Airbus A330-200</span></a></li>
                                                 <li id="menu-item-597" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-icon menu-item-597"><a href="airlines.html" class="fa-dot-circle-o"><span>Airbus A330-300</span></a></li>
@@ -139,21 +263,22 @@ background-image: url(./img/airplane-shape.png) !important;
                                                 
                                             </ul>
                                         </li>
-                                        <li id="menu-item-783" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children mega-menu-col menu-item-783 col-sm-12 col-lg-2"><a href="airlines.html"><span>AIRBUS A340</span></a>
+                                        <div class="clearfix"></div>
+                                        <li id="menu-item-785" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children mega-menu-col menu-item-785 "><a href="airlines.html"><span>AIRBUS A340</span></a>
                                             <ul class="sub-menu sub-menu-has-icons">
-                                                <li id="menu-item-597" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-icon menu-item-597"><a href="airlines.html" class="fa-dot-circle-o"><span>Airbus A320-100</span></a></li>
-                                                <li id="menu-item-597" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-icon menu-item-597"><a href="airlines.html" class="fa-dot-circle-o"><span>Airbus A320-200</span></a></li>
-                                                <li id="menu-item-597" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-icon menu-item-597"><a href="airlines.html" class="fa-dot-circle-o"><span>Airbus A320neo</span></a></li>
-                                                <li id="menu-item-597" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-icon menu-item-597"><a href="airlines.html" class="fa-dot-circle-o"><span>Airbus A321</span></a></li>
-                                                <li id="menu-item-597" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-icon menu-item-597"><a href="airlines.html" class="fa-dot-circle-o"><span>Airbus A321-100                                   </span></a></li>
-                                                <li id="menu-item-597" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-icon menu-item-597"><a href="airlines.html" class="fa-dot-circle-o"><span>Airbus  A321-200</span></a></li>
-                                                <li id="menu-item-597" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-icon menu-item-597"><a href="airlines.html" class="fa-dot-circle-o"><span>Airbus  A321neo</span></a></li>
+                                                <li id="menu-item-597" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-icon menu-item-597"><a href="airlines.html" class="fa-dot-circle-o"><span>Airbus A340-200</span></a></li>
+                                                <li id="menu-item-597" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-icon menu-item-597"><a href="airlines.html" class="fa-dot-circle-o"><span>Airbus A340-300</span></a></li>
+                                                <li id="menu-item-597" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-icon menu-item-597"><a href="airlines.html" class="fa-dot-circle-o"><span>Airbus A340-500</span></a></li>
+                                                <li id="menu-item-597" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-icon menu-item-597"><a href="airlines.html" class="fa-dot-circle-o"><span>Airbus A340-600</span></a></li>
                                             </ul>
                                         </li>
                                     </ul>
                                 </div>
                             </li>
+                            <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3557">
+                                <a href="contacts.html"><span>CONTACT US</span></a>
 
+                            </li>
                             </ul>
                         </div>
                         <div class="navbar-controls">
@@ -173,7 +298,7 @@ background-image: url(./img/airplane-shape.png) !important;
                             <div class="entry-content clearfix" id="entry-div">
                                 <div data-vc-full-width="true" data-vc-full-width-init="false"
                                     data-vc-stretch-content="true"
-                                    class="vc_row wpb_row vc_row-fluid vc_row-no-padding bg-color-black">
+                                    class="vc_row wpb_row vc_row-fluid vc_row-no-padding bg-color-black" style="position: relative; left: -42px; box-sizing: border-box; width: 1284px;">
                                     <div class="wpb_column vc_column_container vc_col-sm-12">
                                         <div class="vc_column-inner">
                                             <div class="wpb_wrapper">
@@ -182,7 +307,7 @@ background-image: url(./img/airplane-shape.png) !important;
                                                     data-zs-overlay="dots" data-zs-initzoom="1.2" data-zs-speed="20000"
                                                     data-zs-interval="4500" data-zs-switchSpeed="7000"
                                                     data-zs-arrows="true" data-zs-bullets="false"
-                                                    data-zs-src='[&#34;./img/baner1.jpeg&#34;,&#34;./img/baner2.jpeg&#34;,&#34;./img/baner3.jpeg &#34;]'>
+                                                    data-zs-src='[&#34;./img/Welcome to Goliath Aviation 1.jpg&#34;,&#34;./img/Aerospace.military.jpg&#34;,&#34;./img/Aviation.Made.Simple.jpg &#34;]'>
                                                     <div class="container ltx-zs-slider-wrapper">
                                                         <div class="ltx-zs-slider-inner  inited visible  ltx-zs-slide-0"
                                                             data-index="0">
@@ -239,13 +364,13 @@ background-image: url(./img/airplane-shape.png) !important;
                                                                             </div>
                                                                             <div
                                                                                 class="btn-wrap align-center btn-wrap-inline">
-                                                                                <a href="#"
+                                                                                <a href="#get_in_touch"
                                                                                     class="btn  btn-main color-hover-white align-center"
                                                                                     id="like_sc_button_1304281409">START
                                                                                     NOW</a></div>
                                                                             <div
                                                                                 class="btn-wrap align-center btn-wrap-inline">
-                                                                                <a href="#"
+                                                                                <a href="about-us.html"
                                                                                     class="btn  btn-second color-hover-white align-center"
                                                                                     id="like_sc_button_80157685">READ
                                                                                     MORE</a></div>
@@ -279,7 +404,7 @@ background-image: url(./img/airplane-shape.png) !important;
                                                                                 id="like_sc_header_462089099">
                                                                                 <h1
                                                                                     class="header -id-like_sc_header_4620890991672814961  -effect-fade_in -el-block -delay-0 -duration-1000 -sequences-0">
-                                                                                    AEROSPACE <span> MILITARY. AIRLINE
+                                                                                    AEROSPACE. <span> MILITARY. AIRLINE
                                                                                         ASSISTANCE </span></h1>
                                                                             </div>
                                                                             <div class="ltx-content-width col-align-center"
@@ -304,7 +429,6 @@ background-image: url(./img/airplane-shape.png) !important;
                                                                                                 maintaining high levels
                                                                                                 of quality, service and
                                                                                                 safety.
-                                                                                                .</p>
                                                                                         </div>
                                                                                     </div>
                                                                                 </div>
@@ -325,13 +449,13 @@ background-image: url(./img/airplane-shape.png) !important;
                                                                             </div>
                                                                             <div
                                                                                 class="btn-wrap align-center btn-wrap-inline">
-                                                                                <a href="#"
+                                                                                <a href="#get_in_touch"
                                                                                     class="btn  btn-main color-hover-white align-center"
                                                                                     id="like_sc_button_1304281409">START
                                                                                     NOW</a></div>
                                                                             <div
                                                                                 class="btn-wrap align-center btn-wrap-inline">
-                                                                                <a href="#"
+                                                                                <a href="about-us.html"
                                                                                     class="btn  btn-second color-hover-white align-center"
                                                                                     id="like_sc_button_80157685">READ
                                                                                     MORE</a></div>
@@ -365,7 +489,7 @@ background-image: url(./img/airplane-shape.png) !important;
                                                                                 id="like_sc_header_1381516371">
                                                                                 <h1
                                                                                     class="header -id-like_sc_header_1381516371395717207  -effect-fade_in -el-block -delay-0 -duration-1000 -sequences-0">
-                                                                                    AVIATION <span> MADE. SIMPLE.
+                                                                                    AVIATION.<span> MADE. SIMPLE.
                                                                                     </span></h1>
                                                                             </div>
                                                                             <div class="ltx-content-width col-align-center"
@@ -407,13 +531,13 @@ background-image: url(./img/airplane-shape.png) !important;
                                                                             </div>
                                                                             <div
                                                                                 class="btn-wrap align-center btn-wrap-inline">
-                                                                                <a href="#"
+                                                                                <a href="#get_in_touch"
                                                                                     class="btn  btn-main color-hover-white align-center"
                                                                                     id="like_sc_button_1304281409">START
                                                                                     NOW</a></div>
                                                                             <div
                                                                                 class="btn-wrap align-center btn-wrap-inline">
-                                                                                <a href="#"
+                                                                                <a href="about-us.html"
                                                                                     class="btn  btn-second color-hover-white align-center"
                                                                                     id="like_sc_button_80157685">READ
                                                                                     MORE</a></div>
@@ -436,95 +560,16 @@ background-image: url(./img/airplane-shape.png) !important;
                                                                 </div>
                                                             </div>
                                                         </div>
-                                                        <div class="ltx-zs-slider-inner  ltx-zs-slide-3" data-index="3">
-                                                            <div
-                                                                class="vc_row wpb_row vc_row-fluid vc_row-o-content-middle vc_row-flex text-align-center">
-                                                                <div
-                                                                    class="wpb_column vc_column_container vc_col-sm-12">
-                                                                    <div class="vc_column-inner">
-                                                                        <div class="wpb_wrapper">
-                                                                            <div class="heading  heading-large default align-center color-main subcolor-white transform-header-up icon-type-hidden heading-tag-h1"
-                                                                                id="like_sc_header_738289260">
-                                                                                <h1
-                                                                                    class="header -id-like_sc_header_738289260702175975  -effect-fade_in -el-block -delay-0 -duration-1000 -sequences-0">
-                                                                                    Luxury <span> Jet Flights </span>
-                                                                                </h1>
-                                                                            </div>
-                                                                            <div class="ltx-content-width col-align-center"
-                                                                                id="like_sc_content_width_871139898"
-                                                                                style="max-width: 700px">
-                                                                                <div class="ltx-wrapper">
-                                                                                    <div
-                                                                                        class="wpb_text_column wpb_content_element ">
-                                                                                        <div class="wpb_wrapper">
-                                                                                            <p
-                                                                                                style="text-align: center;">
-                                                                                                Ut non augue egestas,
-                                                                                                commodo velit eget,
-                                                                                                vestibulum tellus.
-                                                                                                Curabitur vulputate
-                                                                                                justo elit, at elementum
-                                                                                                orci pulvinar vel.
-                                                                                                Pellentesque habitant
-                                                                                                morbi tristique.</p>
-                                                                                        </div>
-                                                                                    </div>
-                                                                                </div>
-                                                                            </div>
-                                                                            <div class="es-resp">
-                                                                                <div class="visible-xl"
-                                                                                    style="height: 64px;"></div>
-                                                                                <div class="hidden-xl hidden-md hidden-sm hidden-ms hidden-xs"
-                                                                                    style="height: 64px;"></div>
-                                                                                <div class="visible-md"
-                                                                                    style="height: 64px;"></div>
-                                                                                <div class="visible-sm "
-                                                                                    style="height: 64px;"></div>
-                                                                                <div class="visible-ms"
-                                                                                    style="height: 64px;"></div>
-                                                                                <div class="visible-xs"
-                                                                                    style="height: 64px;"></div>
-                                                                            </div>
-                                                                            <div
-                                                                                class="btn-wrap align-center btn-wrap-inline">
-                                                                                <a href="/shop/"
-                                                                                    class="btn  btn-main color-hover-white align-center"
-                                                                                    id="like_sc_button_146144203">Book
-                                                                                    Now</a></div>
-                                                                            <div
-                                                                                class="btn-wrap align-center btn-wrap-inline">
-                                                                                <a href="/shop/"
-                                                                                    class="btn  btn-second color-hover-white align-center"
-                                                                                    id="like_sc_button_1601497276">Read
-                                                                                    More</a></div>
-                                                                            <div class="es-resp">
-                                                                                <div class="visible-xl"
-                                                                                    style="height: 350px;"></div>
-                                                                                <div class="hidden-xl hidden-md hidden-sm hidden-ms hidden-xs"
-                                                                                    style="height: 350px;"></div>
-                                                                                <div class="visible-md"
-                                                                                    style="height: 350px;"></div>
-                                                                                <div class="visible-sm "
-                                                                                    style="height: 200px;"></div>
-                                                                                <div class="visible-ms"
-                                                                                    style="height: 200px;"></div>
-                                                                                <div class="visible-xs"
-                                                                                    style="height: 200px;"></div>
-                                                                            </div>
-                                                                        </div>
-                                                                    </div>
-                                                                </div>
-                                                            </div>
-                                                        </div>
+                                                        
                                                     </div>
                                                 </div>
                                             </div>
                                         </div>
                                     </div>
                                 </div>
-                                <!-- emd slider -->
+                                <!-- end slider -->
                                 <div class="vc_row-full-width vc_clearfix"></div>
-                                <div data-vc-full-width="true" data-vc-full-width-init="false"
+                                <div data-vc-full-width="true" data-vc-full-width-init="fazlse"
                                     class="vc_row wpb_row vc_row-fluid vc_custom_1575293892776 ltx-services-slider">
                                     <div class="wpb_column vc_column_container vc_col-sm-12">
                                         <div class="vc_column-inner">
@@ -534,51 +579,51 @@ background-image: url(./img/airplane-shape.png) !important;
                                                     <div class="ltx-list-wrap">
                                                         <article id="post-6897"
                                                             class=" col-lg-4 post-6897 services type-services status-publish has-post-thumbnail hentry services-category-charter">
-                                                            <a href="#"
+                                                            <a href="service.html"
                                                                 class="image"> <img width="110" height="110"
-                                                                    src="./img/corporate110.jpeg"
+                                                                    src="./img/Corporate Aircraft.png"
                                                                     class="attachment-alavion-tiny size-alavion-tiny"
-                                                                    alt="" sizes="(max-width: 110px) 100vw, 110px" />
+                                                                    alt="" sizes="(max-width: 110px) 100vw, 110px" style="height: 110px;" />
                                                             </a>
-                                                            <div class="descr"> <a href="#">
+                                                            <div class="descr"> <a href="service.html">
                                                                     <h4 class="header"> CORPORATE AIRCRAFT</h4>
                                                                 </a>
                                                                 <p>Providing a professional and reliable ferry flight
                                                                     service
-                                                                    <a href="#" class="ltx-font ltx-icon-next"></a>
+                                                                    <a href="service.html" class="ltx-font ltx-icon-next"></a>
                                                                 </p>
                                                             </div>
                                                         </article>
                                                         <article id="post-6898"
                                                             class=" col-lg-4 post-6898 services type-services status-publish has-post-thumbnail hentry services-category-charter">
-                                                            <a href="#"
+                                                            <a href="service.html"
                                                                 class="image"> <img width="110" height="110"
-                                                                    src="./img/aviation part 110.jpeg"
+                                                                    src="./img/Aviation parts Supply.jpg"
                                                                     class="attachment-alavion-tiny size-alavion-tiny"
-                                                                    alt="" sizes="(max-width: 110px) 100vw, 110px" />
+                                                                    alt="" sizes="(max-width: 110px) 100vw, 110px" style="height: 110px;" />
                                                             </a>
-                                                            <div class="descr"> <a href="#">
+                                                            <div class="descr"> <a href="service.html">
                                                                     <h4 class="header">AVIATION PARTS SUPPLY</h4>
                                                                 </a>
                                                                 <p>Ensures products to strict quality standards
-                                                                    <a href="#" class="ltx-font ltx-icon-next"></a>
+                                                                    <a href="service.html" class="ltx-font ltx-icon-next"></a>
                                                                 </p>
                                                             </div>
                                                         </article>
                                                         <article id="post-6899"
                                                             class=" col-lg-4 post-6899 services type-services status-publish has-post-thumbnail hentry services-category-charter">
-                                                            <a href=""
+                                                            <a href="service.html"
                                                                 class="image"> <img width="110" height="110"
-                                                                    src="./img/service3 110.jpeg"
+                                                                    src="./img/Military Assistance.jpg"
                                                                     class="attachment-alavion-tiny size-alavion-tiny"
-                                                                    alt="" sizes="(max-width: 110px) 100vw, 110px" />
+                                                                    alt="" sizes="(max-width: 110px) 100vw, 110px" style="height: 110px;" />
                                                             </a>
-                                                            <div class="descr"> <a href="#">
+                                                            <div class="descr"> <a href="service.html">
                                                                     <h4 class="header"> MILITARY ASSISTANCE</h4>
                                                                 </a>
-                                                                <p>Military aircraft supply, craft assembly and superior
+                                                                <p>Military aircraft supply and superior
                                                                     assistance
-                                                                    <a href="#" class="ltx-font ltx-icon-next"></a>
+                                                                    <a href="service.html" class="ltx-font ltx-icon-next"></a>
                                                                 </p>
                                                             </div>
                                                         </article>
@@ -589,6 +634,10 @@ background-image: url(./img/airplane-shape.png) !important;
                                     </div>
                                 </div>
                                 <div class="vc_row-full-width vc_clearfix"></div>
+<!-- tets who we are -->
+
+<!-- end  -->
+
                                 <section data-vc-full-width="true" data-vc-full-width-init="false"
                                     class="vc_section text-align-center-md-sm-ms">
                                     <div class="vc_row wpb_row vc_row-fluid">
@@ -618,6 +667,7 @@ background-image: url(./img/airplane-shape.png) !important;
                                                         <div class="ltx-wrapper">
                                                             <div class="heading  header-subheader align-left color-black subcolor-main transform-default has-subheader theme-icon-second icon-type-default   vc_custom_1551395229549 heading-tag-h3"
                                                                 id="like_sc_header_675780159">
+                                                                
                                                                 <h5
                                                                     class="subheader ltx-sr-id-like_sc_header_675780159826714543 ltx-sr ltx-sr-effect-fade_in ltx-sr-el-block ltx-sr-delay-100 ltx-sr-duration-300 ltx-sr-sequences-50">
                                                                     Who we are
@@ -654,8 +704,8 @@ background-image: url(./img/airplane-shape.png) !important;
                                                         </div>
                                                     </div>
 
-                                                    <div class="btn-wrap"><a href=""
-                                                            class="btn  btn-main color-hover-default"
+                                                    <div class="btn-wrap align-center"><a href="about-us.html"
+                                                            class="btn  btn-main color-hover-default "
                                                             id="like_sc_button_1575526359">KNOW MORE </a></div>
                                                     <div class="es-resp">
                                                         <div class="visible-xl" style="height: 0px;"></div>
@@ -678,9 +728,9 @@ background-image: url(./img/airplane-shape.png) !important;
                                                         <figure class="wpb_wrapper vc_figure">
                                                             <div class="vc_single_image-wrapper   vc_box_border_grey">
                                                                 <img width="684" height="441"
-                                                                    src="./img/who we are1.jpeg"
+                                                                    src="./img/Who we are.jpg"
                                                                     class="vc_single_image-img attachment-full" alt=""
-                                                                    sizes="(max-width: 684px) 100vw, 684px" /></div>
+                                                                    sizes="(max-width: 684px) 100vw, 684px" style="height:441px" /></div>
                                                         </figure>
                                                     </div>
                                                 </div>
@@ -768,7 +818,7 @@ background-image: url(./img/airplane-shape.png) !important;
                                                         <figure class="wpb_wrapper vc_figure">
                                                             <div class="vc_single_image-wrapper   vc_box_border_grey">
                                                                 <img width="755" height="619"
-                                                                    src="./img/service.jpeg"
+                                                                    src="./img/Aviation Services1.jpg"
                                                                     class="vc_single_image-img attachment-full"
                                                                     alt="" /></div>
                                                         </figure>
@@ -820,36 +870,78 @@ background-image: url(./img/airplane-shape.png) !important;
                                                                 </div>
                                                             </div>
                                                         </li>
-                                                        <li
-                                                            class="col-xl-6 col-lg-6 col-md-6 col-sm-12 col-ms-12 col-xs-12">
-                                                            <div data-mh="ltx-block-icon-in-1371"
-                                                                class="in matchHeight"><span
-                                                                    class="ltx-icon fa fa-fighter-jet bg-white"
-                                                                    data-mh="ltx-icon-span-like_sc_block_icon_729291000"></span>
-                                                                <h5 class="header"> MILITARY ASSISTANCE</h5>
-                                                                <div class="descr">Goliath Aviation Enterprise is the
-                                                                    most preferred Military Aircraft provider to global
-                                                                    leaders with our diverse range of military tech
-                                                                    equipped Helicopters.</div>
-                                                            </div>
-                                                        </li>
-                                                        <li
-                                                            class="col-xl-6 col-lg-6 col-md-6 col-sm-12 col-ms-12 col-xs-12">
-                                                            <div data-mh="ltx-block-icon-in-1371"
-                                                                class="in matchHeight"><span
-                                                                    class="ltx-icon fa fa-rocket bg-white"
-                                                                    data-mh="ltx-icon-span-like_sc_block_icon_729291000"></span>
-                                                                <h5 class="header"> AEROSPACE SATELLITE PROGRAMS</h5>
-                                                                <div class="descr">GAE involves programs that measure
-                                                                    the effectiveness of an aircraft or spacecraft's
-                                                                    engine and thrust systems.
-                                                                </div>
-                                                            </div>
-                                                        </li>
+                                                        
                                                     </ul>
                                                 </div>
                                             </div>
                                         </div>
+                                        <!-- aviatin 2 -->
+                                        <div
+                                        class="wpb_column vc_column_container vc_col-sm-12 vc_col-lg-6 vc_col-md-12 vc_col-has-fill">
+                                        <div class="vc_column-inner vc_custom_1551372981399">
+                                            <div class="wpb_wrapper">
+                                                <div class="wpb_single_image wpb_content_element vc_align_left">
+                                                    <figure class="wpb_wrapper vc_figure">
+                                                        <div class="vc_single_image-wrapper   vc_box_border_grey">
+                                                            <img width="755" height="619"
+                                                                src="./img/Aviation Services2.jpg"
+                                                                class="vc_single_image-img attachment-full"
+                                                                alt="" style="height: 394px;"/></div>
+                                                    </figure>
+                                                    
+                                                </div>
+                                                <div class="es-resp">
+                                                    <div class="visible-xl" style="height: 0px;"></div>
+                                                    <div class="hidden-xl hidden-md hidden-sm hidden-ms hidden-xs"
+                                                        style="height: 32px;"></div>
+                                                    <div class="visible-md" style="height: 32px;"></div>
+                                                    <div class="visible-sm " style="height: 32px;"></div>
+                                                    <div class="visible-ms" style="height: 32px;"></div>
+                                                    <div class="visible-xs" style="height: 32px;"></div>
+                                                </div>
+                                                
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div
+                                        class="wpb_column vc_column_container vc_col-sm-12 vc_col-lg-6 vc_col-md-12">
+                                        <div class="vc_column-inner">
+                                            <div class="wpb_wrapper">
+                                                <ul class="ltx-block-icon  has-descr  icons-count-4 align-center ltx-icon-color-main ltx-icon-type-transparent ltx-bg-color-white layout-cols2 ltx-icon-top  row centered"
+                                                    id="like_sc_block_icon_729291000">
+                                                   
+                                                    <li
+                                                        class="col-xl-6 col-lg-6 col-md-6 col-sm-12 col-ms-12 col-xs-12">
+                                                        <div data-mh="ltx-block-icon-in-1371"
+                                                            class="in matchHeight"><span
+                                                                class="ltx-icon fa fa-fighter-jet bg-white"
+                                                                data-mh="ltx-icon-span-like_sc_block_icon_729291000"></span>
+                                                            <h5 class="header"> MILITARY ASSISTANCE</h5>
+                                                            <div class="descr">Goliath Aviation Enterprise is the
+                                                                most preferred Military Aircraft provider to global
+                                                                leaders with our diverse range of military tech
+                                                                equipped Helicopters.</div>
+                                                        </div>
+                                                    </li>
+                                                    <li
+                                                        class="col-xl-6 col-lg-6 col-md-6 col-sm-12 col-ms-12 col-xs-12">
+                                                        <div data-mh="ltx-block-icon-in-1371"
+                                                            class="in matchHeight"><span
+                                                                class="ltx-icon fa fa-rocket bg-white"
+                                                                data-mh="ltx-icon-span-like_sc_block_icon_729291000"></span>
+                                                            <h5 class="header"> AEROSPACE SATELLITE PROGRAMS</h5>
+                                                            <div class="descr">GAE involves programs that measure
+                                                                the effectiveness of an aircraft or spacecraft's
+                                                                engine and thrust systems.
+                                                            </div>
+                                                        </div>
+                                                    </li>
+                                                </ul>
+                                            </div>
+                                        </div>
+                                    </div>
+
+                                        <!-- end aviation 2 -->
                                         
                                     </div>
                                     
@@ -866,7 +958,7 @@ background-image: url(./img/airplane-shape.png) !important;
                                                         <div class="visible-ms" style="height: 32px;"></div>
                                                         <div class="visible-xs" style="height: 32px;"></div>
                                                     </div>
-                                                    <div class="btn-wrap align-center"><a href="#"
+                                                    <div class="btn-wrap align-center"><a href="service.html"
                                                             class="btn  btn-main color-hover-default align-center"
                                                             id="like_sc_button_1668320836">READ MORE</a></div>
                                                     <div class="es-resp">
@@ -885,6 +977,7 @@ background-image: url(./img/airplane-shape.png) !important;
                                 </section>
                                 <!-- end top3 -->
                                 <div class="vc_row-full-width vc_clearfix"></div>
+                               
                                 <section data-vc-full-width="true" data-vc-full-width-init="false" class="vc_section">
                                     <div class="vc_row wpb_row vc_row-fluid">
                                         <div class="wpb_column vc_column_container vc_col-sm-12">
@@ -951,8 +1044,8 @@ background-image: url(./img/airplane-shape.png) !important;
                                         </div>
                                     </div>
                                 </section>
-                                <!-- end top 4 -->
-                                <div class="vc_row-full-width vc_clearfix"></div>
+                                <!-- end top 4 -->                               
+ <div class="vc_row-full-width vc_clearfix"></div>
                                  <!-- about page content start -->
         <section class="about-page-content-area ">
             <div class="container">
@@ -961,7 +1054,7 @@ background-image: url(./img/airplane-shape.png) !important;
                      <div class="vc_row-full-width vc_clearfix"></div>
 
                      <section data-vc-full-width="true" data-vc-full-width-init="false"
-                         class="vc_section backgrounnd_glob vc_section-has-fill bg-color-black bg-pos-right-top">
+                         class="vc_section backgrounnd_glob vc_section-has-fill bg-color-black bg-pos-right-top" id="get_in_touch">
                          <div class="vc_row wpb_row vc_row-fluid text-align-center-sm-ms">
                              <div class="wpb_column vc_column_container vc_col-sm-12">
                                  <div class="vc_column-inner">
@@ -1469,8 +1562,9 @@ background-image: url(./img/airplane-shape.png) !important;
                                      </div>
                                  </div>
                              </div>
-                             <div
-                                 class="wpb_column vc_column_container vc_col-sm-12 vc_col-lg-4 vc_col-md-4 vc_col-has-fill text-align-center">
+                             <!-- get in touch -->
+                             <div class="wpb_column vc_column_container vc_col-sm-12 vc_col-lg-4 vc_col-md-4 vc_col-has-fill text-align-center" style="height: 581px;">
+
                                  <div class="vc_column-inner vc_custom_1551316223973">
                                      <div class="wpb_wrapper">
                                          <div class="es-resp">
@@ -1495,8 +1589,9 @@ background-image: url(./img/airplane-shape.png) !important;
                                         <!-- formtest form -->
                                         <form action="#" method="post" class="wpcf7-form" novalidate="novalidate">
                                            <div class="row">
-                                               <div class="col-lg-6"> <span class="wpcf7-form-control-wrap field-header">
-                                                   <input type="text" name="field-header" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required" aria-required="true" aria-invalid="false" placeholder="Your name"></span></div><div class="col-lg-6"> <span class="wpcf7-form-control-wrap field-header2">
+                                               <div class="col-lg-12"> <span class="wpcf7-form-control-wrap field-header">
+                                                   <input type="text" name="field-header" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required" aria-required="true" aria-invalid="false" placeholder="Your name"></span></div>
+                                                   <div class="col-lg-12"> <span class="wpcf7-form-control-wrap field-header2">
                                                        <input type="text" name="field-header2" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required" aria-required="true" aria-invalid="false" placeholder="Your email"></span>
                                                     </div></div>
                                                     <div class="row"><div class="col-md-12"> <span class="wpcf7-form-control-wrap field-header-3"><textarea name="field-header-3" cols="40" rows="10" class="wpcf7-form-control wpcf7-textarea" aria-invalid="false" placeholder="Message"></textarea></span></div></div><div class="row"><div class="col-md-12"> <span class="ltx-btn-wrap"><span class="ltx-btn-wrap">
@@ -1573,7 +1668,7 @@ background-image: url(./img/airplane-shape.png) !important;
                                                  <p>You can get spare parts and other services for almost all
                                                      Airlines, still some of the most deals with are here.
                                                  </p>
-                                                 <p><a class="more-link" href="#">Read More</a></p>
+                                                 <p><a class="more-link" href="airlines.html">Read More</a></p>
                                              </div>
                                          </div>
                                          <div class="es-resp">
@@ -1600,17 +1695,17 @@ background-image: url(./img/airplane-shape.png) !important;
                                                      <div class="swiper-slide col-md-4 col-sm-12">
                                                          <article id="post-8513"
                                                              class="post-8513 services type-services status-publish has-post-thumbnail hentry services-category-destinations">
-                                                             <a href="service.html"
+                                                             <a href="airlines.html"
                                                                  class="image"> <img 
                                                                      src="./img/airbus.jpeg"
                                                                      class="attachment-alavion-service-square size-alavion-service-square img-responsive "
                                                                      alt="" width="364" height="364"
                                                                      srcset="./img/airbus.jpeg 364w, ./img/airbus.jpeg 150w, ./img/airbus.jpeg 300w, ./img/airbus.jpeg 768w, ./img/airbus.jpeg 600w, ./img/airbus.jpeg 100w, ./img/airbus.jpeg 24w, ./img/airbus.jpeg 48w, ./img/airbus.jpeg 96w, ./img/airbus.jpeg 50w, ./img/airbus.jpeg 1000w"
                                                                      
-                                                                    style="max-height: 238px;"/>
+                                                                    style="height: 238px;"/>
                                                              </a>
                                                              <div class="descr">
-                                                                 <h4 class="header"> AIRBUS 300&#8211; AIRBUS 340
+                                                                 <h4 class="header"> AIRBUS
                                                                  </h4>
                                                                  <!-- <p> Departure: <span> 17:50 </span> Arrival:
                                                                      <span> 20:42 </span></p> -->
@@ -1620,16 +1715,16 @@ background-image: url(./img/airplane-shape.png) !important;
                                                      <div class="swiper-slide col-md-4 col-sm-12">
                                                         <article id="post-8513"
                                                             class="post-8513 services type-services status-publish has-post-thumbnail hentry services-category-destinations">
-                                                            <a href="service.html"
+                                                            <a href="airlines.html"
                                                                 class="image"> <img width="364" height="364"
-                                                                    src="./img/ANTONOV.webp"
+                                                                    src="./img/Antonov1.jpg"
                                                                     class="attachment-alavion-service-square img-responsive size-alavion-service-square"
                                                                     alt=""
-                                                                    srcset="./img/ANTONOV.webp 364w, ./img/ANTONOV.webp 150w, ./img/ANTONOV.webp 300w, ./img/ANTONOV.webp 768w, ./img/ANTONOV.webp 600w, ./img/ANTONOV.webp 100w, ./img/ANTONOV.webp 24w, ./img/ANTONOV.webp 48w, ./img/ANTONOV.webp 96w, ./img/ANTONOV.webp 50w, ./img/ANTONOV.webp 1000w"
-                                                                    sizes="(max-width: 364px) 100vw, 364px" style="max-height: 238px;"/>
+                                                                    srcset="./img/Antonov1.jpg 364w, ./img/Antonov1.jpg 150w, ./img/Antonov1.jpg 300w, ./img/Antonov1.jpg 768w, ./img/Antonov1.jpg 600w, ./img/Antonov1.jpg 100w, ./img/Antonov1.jpg 24w, ./img/Antonov1.jpg 48w, ./img/Antonov1.jpg 96w, ./img/Antonov1.jpg 50w, ./img/Antonov1.jpg 1000w"
+                                                                    sizes="(max-width: 364px) 100vw, 364px" style="height: 238px;"/>
                                                             </a>
                                                             <div class="descr">
-                                                                <h4 class="header"> ANTONOV-28&#8211; ANTONOV-32
+                                                                <h4 class="header"> ANTONOV
                                                                 </h4>
                                                                 <!-- <p> Departure: <span> 17:50 </span> Arrival:
                                                                     <span> 20:42 </span></p> -->
@@ -1639,16 +1734,16 @@ background-image: url(./img/airplane-shape.png) !important;
                                                     <div class="swiper-slide">
                                                         <article id="post-8513"
                                                             class="post-8513 services type-services status-publish has-post-thumbnail hentry services-category-destinations">
-                                                            <a href="service.html"
+                                                            <a href="airlines.html"
                                                                 class="image"> <img width="364" height="364"
-                                                                    src="./img/atr-42.jpeg"
+                                                                    src="./img/ATR.jpg"
                                                                     class="attachment-alavion-service-square size-alavion-service-square"
                                                                     alt=""
-                                                                    srcset="./img/atr-42.jpeg 364w, ./img/atr-42.jpeg 150w, ./img/atr-42.jpeg 300w, ./img/atr-42.jpeg 768w, ./img/atr-42.jpeg 600w, ./img/atr-42.jpeg 100w, ./img/atr-42.jpeg 24w, ./img/atr-42.jpeg 48w, ./img/atr-42.jpeg 96w, ./img/atr-42.jpeg 50w, ./img/atr-42.jpeg 1000w"
-                                                                    sizes="(max-width: 364px) 100vw, 364px" />
+                                                                    srcset="./img/ATR.jpg 364w, ./img/ATR.jpg 150w, ./img/ATR.jpg 300w, ./img/ATR.jpg 768w, ./img/ATR.jpg 600w, ./img/ATR.jpg 100w, ./img/ATR.jpg 24w, ./img/ATR.jpg 48w, ./img/ATR.jpg 96w, ./img/ATR.jpg 50w, ./img/ATR.jpg 1000w"
+                                                                    sizes="(max-width: 364px) 100vw, 364px" style="height: 238px" />
                                                             </a>
                                                             <div class="descr">
-                                                                <h4 class="header"> ATR-42&#8211; ATR-72
+                                                                <h4 class="header"> ATR
                                                                 </h4>
                                                                 <!-- <p> Departure: <span> 17:50 </span> Arrival:
                                                                     <span> 20:42 </span></p> -->
@@ -1658,16 +1753,16 @@ background-image: url(./img/airplane-shape.png) !important;
                                                     <div class="swiper-slide col-md-4 col-sm-12">
                                                         <article id="post-8513"
                                                             class="post-8513 services type-services status-publish has-post-thumbnail hentry services-category-destinations">
-                                                            <a href="service.html"
+                                                            <a href="airlines.html"
                                                                 class="image"> <img width="364" height="364"
-                                                                    src="./img/BOEING.jpeg"
+                                                                    src="./img/Boeing.jpg"
                                                                     class="attachment-alavion-service-square img-responsive size-alavion-service-square"
                                                                     alt=""
-                                                                    srcset="./img/BOEING.jpeg 364w, ./img/BOEING.jpeg 150w, ./img/BOEING.jpeg 300w, ./img/BOEING.jpeg 768w, ./img/BOEING.jpeg 600w, ./img/BOEING.jpeg 100w, ./img/BOEING.jpeg 24w, ./img/BOEING.jpeg 48w, ./img/BOEING.jpeg 96w, ./img/BOEING.jpeg 50w, ./img/BOEING.jpeg 1000w"
-                                                                    sizes="(max-width: 364px) 100vw, 364px" style="max-height: 238px;"/>
+                                                                    srcset="./img/Boeing.jpg 364w, ./img/Boeing.jpg 150w, ./img/Boeing.jpg 300w, ./img/Boeing.jpg 768w, ./img/Boeing.jpg 600w, ./img/Boeing.jpg 100w, ./img/Boeing.jpg 24w, ./img/Boeing.jpg 48w, ./img/Boeing.jpg 96w, ./img/Boeing.jpg 50w, ./img/Boeing.jpg 1000w"
+                                                                    sizes="(max-width: 364px) 100vw, 364px" style="height: 238px;"/>
                                                             </a>
                                                             <div class="descr">
-                                                                <h4 class="header"> BOEING-737Classic&#8211; BOEING-787
+                                                                <h4 class="header"> BOEING
                                                                 </h4>
                                                                 <!-- <p> Departure: <span> 17:50 </span> Arrival:
                                                                     <span> 20:42 </span></p> -->
@@ -1677,16 +1772,16 @@ background-image: url(./img/airplane-shape.png) !important;
                                                     <div class="swiper-slide col-md-4 col-sm-12">
                                                         <article id="post-8513"
                                                             class="post-8513 services type-services status-publish has-post-thumbnail hentry services-category-destinations">
-                                                            <a href="service.html"
+                                                            <a href="airlines.html"
                                                                 class="image"> <img width="364" height="364"
-                                                                    src="./img/ANTONOV.webp"
+                                                                    src="./img/Bombardier.jpg"
                                                                     class="attachment-alavion-service-square img-responsive size-alavion-service-square"
                                                                     alt=""
-                                                                    srcset="./img/ANTONOV.webp 364w, ./img/ANTONOV.webp 150w, ./img/ANTONOV.webp 300w, ./img/ANTONOV.webp 768w, ./img/ANTONOV.webp 600w, ./img/ANTONOV.webp 100w, ./img/ANTONOV.webp 24w, ./img/ANTONOV.webp 48w, ./img/ANTONOV.webp 96w, ./img/ANTONOV.webp 50w, ./img/ANTONOV.webp 1000w"
-                                                                    sizes="(max-width: 364px) 100vw, 364px" style="max-height: 238px;"/>
+                                                                    srcset="./img/Bombardier.jpg 364w, ./img/Bombardier.jpg 150w, ./img/Bombardier.jpg 300w, ./img/Bombardier.jpg 768w, ./img/Bombardier.jpg 600w, ./img/Bombardier.jpg 100w, ./img/Bombardier.jpg 24w, ./img/Bombardier.jpg 48w, ./img/Bombardier.jpg 96w, ./img/Bombardier.jpg 50w, ./img/Bombardier.jpg 1000w"
+                                                                    sizes="(max-width: 364px) 100vw, 364px" style="height: 238px;"/>
                                                             </a>
                                                             <div class="descr">
-                                                                <h4 class="header"> Bombardier Aerospace – Canadair &#8211; Bombardier Aerospace – De Havilland Canada
+                                                                <h4 class="header"> Bombardier Aerospace 
                                                                 </h4>
                                                                 <!-- <p> Departure: <span> 17:50 </span> Arrival:
                                                                     <span> 20:42 </span></p> -->
@@ -1696,25 +1791,13 @@ background-image: url(./img/airplane-shape.png) !important;
                                                     <div class="swiper-slide col-md-4 col-sm-12">
                                                         <article id="post-8513"
                                                             class="post-8513 services type-services status-publish has-post-thumbnail hentry services-category-destinations">
-                                                            <a href="service.html"
+                                                            <a href="airlines.html"
                                                                 class="image"> <img width="364" height="364"
-                                                                    src="./img/MCDONNEL DOUGLAS
-.jpg"
+                                                                    src="./img/McDonnell Douglas.jpg"
                                                                     class="attachment-alavion-service-square img-responsive size-alavion-service-square"
                                                                     alt=""
-                                                                    srcset="./img/MCDONNEL DOUGLAS
-.jpg 364w, ./img/MCDONNEL DOUGLAS
-.jpg 150w, ./img/MCDONNEL DOUGLAS
-.jpg 300w, ./img/MCDONNEL DOUGLAS
-.jpg 768w, ./img/MCDONNEL DOUGLAS
-.jpg 600w, ./img/MCDONNEL DOUGLAS
-.jpg 100w, ./img/MCDONNEL DOUGLAS
-.jpg 24w, ./img/MCDONNEL DOUGLAS
-.jpg 48w, ./img/MCDONNEL DOUGLAS
-.jpg 96w, ./img/MCDONNEL DOUGLAS
-.jpg 50w, ./img/MCDONNEL DOUGLAS
-.jpg 1000w"
-                                                                    sizes="(max-width: 364px) 100vw, 364px" style="max-height: 238px;"/>
+                                                                    srcset="./img/McDonnell Douglas.jpg 364w, ./img/McDonnell Douglas.jpg 150w, ./img/McDonnell Douglas.jpg 300w, ./img/McDonnell Douglas.jpg 768w, ./img/McDonnell Douglas.jpg 600w, ./img/McDonnell Douglas.jpg 100w, ./img/McDonnell Douglas.jpg 24w, ./img/McDonnell Douglas.jpg 48w, ./img/McDonnell Douglas.jpg 96w, ./img/McDonnell Douglas.jpg 50w, ./img/McDonnell Douglas.jpg 1000w"
+                                                                    sizes="(max-width: 364px) 100vw, 364px" style="height: 238px;"/>
                                                             </a>
                                                             <div class="descr">
                                                                 <h4 class="header"> MCDONNEL DOUGLAS
@@ -1727,17 +1810,17 @@ background-image: url(./img/airplane-shape.png) !important;
                                                     <div class="swiper-slide col-md-4 col-sm-12">
                                                         <article id="post-8513"
                                                             class="post-8513 services type-services status-publish has-post-thumbnail hentry services-category-destinations">
-                                                            <a href="service.html"
+                                                            <a href="airlines.html"
                                                                 class="image"> <img 
-                                                                    src="./img/EMBRAER.jpg"
+                                                                    src="./img/embraer.jpg"
                                                                     class="attachment-alavion-service-square size-alavion-service-square img-responsive "
                                                                     alt="" width="364" height="364"
-                                                                    srcset="./img/EMBRAER.jpg 364w, ./img/EMBRAER.jpg 150w, ./img/EMBRAER.jpg 300w, ./img/EMBRAER.jpg 768w, ./img/EMBRAER.jpg 600w, ./img/EMBRAER.jpg 100w, ./img/EMBRAER.jpg 24w, ./img/EMBRAER.jpg 48w, ./img/EMBRAER.jpg 96w, ./img/EMBRAER.jpg 50w, ./img/EMBRAER.jpg 1000w"
+                                                                    srcset="./img/embraer.jpg 364w, ./img/embraer.jpg 150w, ./img/embraer.jpg 300w, ./img/embraer.jpg 768w, ./img/embraer.jpg 600w, ./img/embraer.jpg 100w, ./img/embraer.jpg 24w, ./img/embraer.jpg 48w, ./img/embraer.jpg 96w, ./img/embraer.jpg 50w, ./img/embraer.jpg 1000w"
                                                                     
-                                                                   style="max-height: 238px;"/>
+                                                                   style="height: 238px;"/>
                                                             </a>
                                                             <div class="descr">
-                                                                <h4 class="header">EMBRAER ERJ-145 FAMILY &#8211; EMBRAER PHENOM 300
+                                                                <h4 class="header">EMBRAER
                                                                 </h4>
                                                                 <!-- <p> Departure: <span> 17:50 </span> Arrival:
                                                                     <span> 20:42 </span></p> -->
@@ -1747,17 +1830,17 @@ background-image: url(./img/airplane-shape.png) !important;
                                                     <div class="swiper-slide col-md-4 col-sm-12">
                                                         <article id="post-8513"
                                                             class="post-8513 services type-services status-publish has-post-thumbnail hentry services-category-destinations">
-                                                            <a href="service.html"
+                                                            <a href="airlines.html"
                                                                 class="image"> <img 
-                                                                    src="./img/FOKKER.jpg"
+                                                                    src="./img/fokker.jpg"
                                                                     class="attachment-alavion-service-square size-alavion-service-square img-responsive "
                                                                     alt="" width="364" height="364"
-                                                                    srcset="./img/FOKKER.jpg 364w, ./img/FOKKER.jpg 150w, ./img/FOKKER.jpg 300w, ./img/FOKKER.jpg 768w, ./img/FOKKER.jpg 600w, ./img/FOKKER.jpg 100w, ./img/FOKKER.jpg 24w, ./img/FOKKER.jpg 48w, ./img/FOKKER.jpg 96w, ./img/FOKKER.jpg 50w, ./img/FOKKER.jpg 1000w"
+                                                                    srcset="./img/fokker.jpg 364w, ./img/fokker.jpg 150w, ./img/fokker.jpg 300w, ./img/fokker.jpg 768w, ./img/fokker.jpg 600w, ./img/fokker.jpg 100w, ./img/fokker.jpg 24w, ./img/fokker.jpg 48w, ./img/fokker.jpg 96w, ./img/fokker.jpg 50w, ./img/fokker.jpg 1000w"
                                                                     
-                                                                   style="max-height: 238px;"/>
+                                                                   style="height: 238px;"/>
                                                             </a>
                                                             <div class="descr">
-                                                                <h4 class="header">FOKKER 50/60
+                                                                <h4 class="header">FOKKER
                                                                 </h4>
                                                                 <!-- <p> Departure: <span> 17:50 </span> Arrival:
                                                                     <span> 20:42 </span></p> -->
