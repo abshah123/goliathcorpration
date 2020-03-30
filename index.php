@@ -17,7 +17,8 @@
     <link rel='stylesheet' id='alavion-fontello-css'
         href='./css/autoptimize/css/autoptimize_single_e214eafde20fe36b6122924d5b590988.css' type='text/css'
         media='all' />
-        
+        <link rel="icon" href="./img/G1 Logo G.png"
+        sizes="32x32" />
     <script type='text/javascript' src='./js/jquery/jquery.js'></script>
 
     <noscript>
@@ -157,7 +158,10 @@ background-image: url(./img/airplane-shape.png) !important;
     }
     
     nav.navbar .logo img {
-        max-height: 58px !important;
+        max-height: 100px !important;
+        max-width: 100px !important;
+        height: 100px !important;
+
     }
 
 </style>
@@ -1970,8 +1974,8 @@ background-image: url(./img/airplane-shape.png) !important;
                 <div class="row">
                     <div class="col-md-8 col-md-offset-2 text-align-center    clearfix">
                         <div class="footer-widget-area">
-                            <a class="logo" href="./goliathcorpration/G1 Logo G.png"><img src=".img/logo.jpeg"
-                                    alt="goliathcorpration" srcset="./img/G1 Logo G.png"></a>
+                            <a class="logo" href="#"><img src="./img/G1 Logo G.png"
+                                    alt="goliathcorpration" style="width: 100px;" ></a>
                             <div id="text-14" class="widget widget_text">
                                 <div class="textwidget">
                                     <p>
