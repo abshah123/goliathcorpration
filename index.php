@@ -194,13 +194,12 @@ background-image: url(./img/airplane-shape.png) !important;
                 <nav class="navbar" data-spy="" data-offset-top="0">
                     <div class="container">
                         <div class="navbar-logo ">
-                            <a class="logo" href="index.html/"><img src="./img/G1 Logo G.png" alt="GoliathCorpration"
-                                    srcset="./img/G1 Logo G.png"></a>
+                            <a class="logo" href="index.html/"><img src="./img/G1 Logo G.png" alt="GoliathCorpration"></a>
                         </div>
                         <div id="navbar" class="navbar-collapse collapse navbar-mobile-white"
                             data-mobile-screen-width="1198">
                             <div class="toggle-wrap">
-                                <!--< a class="logo" href="http://goliathcorpration/"><img src="//goliathcorpration/wp-content/uploads/2018/02/logo_1x_black.png" alt="Alavion" srcset="//goliathcorpration/wp-content/uploads/2018/02/logo_1x_black.png 1x,//goliathcorpration/wp-content/uploads/2018/02/logo_2x_black.png 2x"></a> -->
+                               
                                 <button type="button" class="navbar-toggle collapsed"> <span
                                         class="close">&times;</span> </button>
                                 <div class="clearfix"></div>
@@ -1141,7 +1140,7 @@ background-image: url(./img/airplane-shape.png) !important;
                                                                          <div class="screen-reader-response">
                                                                          </div>
                                                                          <form
-                                                                             action="/#wpcf7-f8483-p7925-o1"
+                                                                             action=""
                                                                              method="post" class="wpcf7-form"
                                                                              novalidate="novalidate">
                                                                              <div style="display: none;">
@@ -1373,7 +1372,7 @@ background-image: url(./img/airplane-shape.png) !important;
                                                                          <div class="screen-reader-response">
                                                                          </div>
                                                                          <form
-                                                                             action="/#wpcf7-f8477-p7925-o2"
+                                                                             action=""
                                                                              method="post" class="wpcf7-form"
                                                                              novalidate="novalidate">
                                                                              <div style="display: none;">
@@ -1703,16 +1702,12 @@ background-image: url(./img/airplane-shape.png) !important;
                                                                  class="image"> <img 
                                                                      src="./img/airbus.jpeg"
                                                                      class="attachment-alavion-service-square size-alavion-service-square img-responsive "
-                                                                     alt="" width="364" height="364"
-                                                                     srcset="./img/airbus.jpeg 364w, ./img/airbus.jpeg 150w, ./img/airbus.jpeg 300w, ./img/airbus.jpeg 768w, ./img/airbus.jpeg 600w, ./img/airbus.jpeg 100w, ./img/airbus.jpeg 24w, ./img/airbus.jpeg 48w, ./img/airbus.jpeg 96w, ./img/airbus.jpeg 50w, ./img/airbus.jpeg 1000w"
-                                                                     
-                                                                    style="height: 238px;"/>
+                                                                     alt="" width="364" height="364" style="height: 238px;">
                                                              </a>
                                                              <div class="descr">
                                                                  <h4 class="header"> AIRBUS
                                                                  </h4>
-                                                                 <!-- <p> Departure: <span> 17:50 </span> Arrival:
-                                                                     <span> 20:42 </span></p> -->
+                                                               
                                                              </div>
                                                          </article>
                                                      </div>
@@ -1815,15 +1810,12 @@ background-image: url(./img/airplane-shape.png) !important;
                                                                     src="./img/embraer.jpg"
                                                                     class="attachment-alavion-service-square size-alavion-service-square img-responsive "
                                                                     alt="" width="364" height="364"
-                                                                    srcset="./img/embraer.jpg 364w, ./img/embraer.jpg 150w, ./img/embraer.jpg 300w, ./img/embraer.jpg 768w, ./img/embraer.jpg 600w, ./img/embraer.jpg 100w, ./img/embraer.jpg 24w, ./img/embraer.jpg 48w, ./img/embraer.jpg 96w, ./img/embraer.jpg 50w, ./img/embraer.jpg 1000w"
-                                                                    
-                                                                   style="height: 238px;"/>
+                                                                    style="height: 238px;"/>
                                                             </a>
                                                             <div class="descr">
                                                                 <h4 class="header">EMBRAER
                                                                 </h4>
-                                                                <!-- <p> Departure: <span> 17:50 </span> Arrival:
-                                                                    <span> 20:42 </span></p> -->
+                                                               
                                                             </div>
                                                         </article>
                                                     </div>
@@ -1834,16 +1826,12 @@ background-image: url(./img/airplane-shape.png) !important;
                                                                 class="image"> <img 
                                                                     src="./img/fokker.jpg"
                                                                     class="attachment-alavion-service-square size-alavion-service-square img-responsive "
-                                                                    alt="" width="364" height="364"
-                                                                    srcset="./img/fokker.jpg 364w, ./img/fokker.jpg 150w, ./img/fokker.jpg 300w, ./img/fokker.jpg 768w, ./img/fokker.jpg 600w, ./img/fokker.jpg 100w, ./img/fokker.jpg 24w, ./img/fokker.jpg 48w, ./img/fokker.jpg 96w, ./img/fokker.jpg 50w, ./img/fokker.jpg 1000w"
-                                                                    
-                                                                   style="height: 238px;"/>
+                                                                    alt="" width="364" height="364" style="height: 238px;"/>
                                                             </a>
                                                             <div class="descr">
                                                                 <h4 class="header">FOKKER
                                                                 </h4>
-                                                                <!-- <p> Departure: <span> 17:50 </span> Arrival:
-                                                                    <span> 20:42 </span></p> -->
+                                                               
                                                             </div>
                                                         </article>
                                                     </div>
@@ -1892,7 +1880,6 @@ background-image: url(./img/airplane-shape.png) !important;
                                                     width="1559" height="411"
                                                     src="./img/plane-large.png"
                                                     class="vc_single_image-img attachment-full" alt=""
-                                                    srcset="./img/plane-large.png 1559w, ./img/plane-large.png 300w"
                                                     sizes="(max-width: 1559px) 100vw, 1559px"></div>
                                         </figure>
                                         
