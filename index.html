@@ -1720,7 +1720,6 @@ background-image: url(./img/airplane-shape.png) !important;
                                                                     src="./img/Antonov1.jpg"
                                                                     class="attachment-alavion-service-square img-responsive size-alavion-service-square"
                                                                     alt=""
-                                                                    srcset="./img/Antonov1.jpg 364w, ./img/Antonov1.jpg 150w, ./img/Antonov1.jpg 300w, ./img/Antonov1.jpg 768w, ./img/Antonov1.jpg 600w, ./img/Antonov1.jpg 100w, ./img/Antonov1.jpg 24w, ./img/Antonov1.jpg 48w, ./img/Antonov1.jpg 96w, ./img/Antonov1.jpg 50w, ./img/Antonov1.jpg 1000w"
                                                                     sizes="(max-width: 364px) 100vw, 364px" style="height: 238px;"/>
                                                             </a>
                                                             <div class="descr">
@@ -1738,8 +1737,7 @@ background-image: url(./img/airplane-shape.png) !important;
                                                                 class="image"> <img width="364" height="364"
                                                                     src="./img/ATR.jpg"
                                                                     class="attachment-alavion-service-square size-alavion-service-square"
-                                                                    alt=""
-                                                                    srcset="./img/ATR.jpg 364w, ./img/ATR.jpg 150w, ./img/ATR.jpg 300w, ./img/ATR.jpg 768w, ./img/ATR.jpg 600w, ./img/ATR.jpg 100w, ./img/ATR.jpg 24w, ./img/ATR.jpg 48w, ./img/ATR.jpg 96w, ./img/ATR.jpg 50w, ./img/ATR.jpg 1000w"
+                                                                    alt="ATR"
                                                                     sizes="(max-width: 364px) 100vw, 364px" style="height: 238px" />
                                                             </a>
                                                             <div class="descr">
@@ -1757,8 +1755,7 @@ background-image: url(./img/airplane-shape.png) !important;
                                                                 class="image"> <img width="364" height="364"
                                                                     src="./img/Boeing.jpg"
                                                                     class="attachment-alavion-service-square img-responsive size-alavion-service-square"
-                                                                    alt=""
-                                                                    srcset="./img/Boeing.jpg 364w, ./img/Boeing.jpg 150w, ./img/Boeing.jpg 300w, ./img/Boeing.jpg 768w, ./img/Boeing.jpg 600w, ./img/Boeing.jpg 100w, ./img/Boeing.jpg 24w, ./img/Boeing.jpg 48w, ./img/Boeing.jpg 96w, ./img/Boeing.jpg 50w, ./img/Boeing.jpg 1000w"
+                                                                    alt="Boeing"
                                                                     sizes="(max-width: 364px) 100vw, 364px" style="height: 238px;"/>
                                                             </a>
                                                             <div class="descr">
@@ -1777,7 +1774,7 @@ background-image: url(./img/airplane-shape.png) !important;
                                                                     src="./img/Bombardier.jpg"
                                                                     class="attachment-alavion-service-square img-responsive size-alavion-service-square"
                                                                     alt=""
-                                                                    srcset="./img/Bombardier.jpg 364w, ./img/Bombardier.jpg 150w, ./img/Bombardier.jpg 300w, ./img/Bombardier.jpg 768w, ./img/Bombardier.jpg 600w, ./img/Bombardier.jpg 100w, ./img/Bombardier.jpg 24w, ./img/Bombardier.jpg 48w, ./img/Bombardier.jpg 96w, ./img/Bombardier.jpg 50w, ./img/Bombardier.jpg 1000w"
+                                                                    
                                                                     sizes="(max-width: 364px) 100vw, 364px" style="height: 238px;"/>
                                                             </a>
                                                             <div class="descr">
@@ -1796,7 +1793,6 @@ background-image: url(./img/airplane-shape.png) !important;
                                                                     src="./img/McDonnell Douglas.jpg"
                                                                     class="attachment-alavion-service-square img-responsive size-alavion-service-square"
                                                                     alt=""
-                                                                    srcset="./img/McDonnell Douglas.jpg 364w, ./img/McDonnell Douglas.jpg 150w, ./img/McDonnell Douglas.jpg 300w, ./img/McDonnell Douglas.jpg 768w, ./img/McDonnell Douglas.jpg 600w, ./img/McDonnell Douglas.jpg 100w, ./img/McDonnell Douglas.jpg 24w, ./img/McDonnell Douglas.jpg 48w, ./img/McDonnell Douglas.jpg 96w, ./img/McDonnell Douglas.jpg 50w, ./img/McDonnell Douglas.jpg 1000w"
                                                                     sizes="(max-width: 364px) 100vw, 364px" style="height: 238px;"/>
                                                             </a>
                                                             <div class="descr">
