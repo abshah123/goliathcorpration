@@ -160,11 +160,16 @@ background-image: url(./img/airplane-shape.png) !important;
     }
     
     nav.navbar .logo img {
-        max-height: 58px !important;
-        max-width: 170px !important;
-        height: 100px !important;
+        max-height: 200px !important;
+        max-width: 200px !important;
+        height: 200px !important;
 
     }
+    .header-wrapper.wrapper-navbar-layout-transparent, .header-wrapper.wrapper-navbar-layout-transparent-white {
+    background-image: none!important;
+    background-color: transparent!important;
+    margin-bottom: -300px;
+}
 
 </style>
     <link rel="icon" href="./img/G1 Logo G.png" sizes="32x32" />
