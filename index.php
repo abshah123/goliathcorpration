@@ -162,13 +162,14 @@ background-image: url(./img/airplane-shape.png) !important;
     nav.navbar .logo img {
         max-height: 200px !important;
         max-width: 200px !important;
-        height: 200px !important;
+        height: 115px !important;
 
     }
     .header-wrapper.wrapper-navbar-layout-transparent, .header-wrapper.wrapper-navbar-layout-transparent-white {
     background-image: none!important;
     background-color: transparent!important;
     margin-bottom: -300px;
+    margin-top: -21px!important;
 }
 
 </style>
@@ -202,7 +203,7 @@ background-image: url(./img/airplane-shape.png) !important;
                             <a class="logo" href="index.html"><img src="./img/G1 Logo with name.png" alt="GoliathCorpration"></a>
                         </div>
                         <div id="navbar" class="navbar-collapse collapse navbar-mobile-white"
-                            data-mobile-screen-width="1198">
+                            data-mobile-screen-width="1198" style="margin-top: 21px;">
                             <div class="toggle-wrap">
                                
                                 <button type="button" class="navbar-toggle collapsed"> <span
@@ -218,7 +219,7 @@ background-image: url(./img/airplane-shape.png) !important;
                                     class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3557">
                                     <a href="about-us.html"><span>ABOUT US</span></a>
                                 </li>
-                                <li id="menu-item-619" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-619"><a href="#"><span>SERVICES</span></a>
+                                <li id="menu-item-619" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-619"><a href="service.html"><span>SERVICES</span></a>
                                     <ul class="sub-menu">
                                         <li id="menu-item-623" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-623"><a href="service.html"><span> CORPORATE AIRCRAFT</span></a></li>
                                         <li id="menu-item-622" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-622"><a href="service.html"><span>AVIATION PARTS SUPPLY</span></a></li>
@@ -228,7 +229,7 @@ background-image: url(./img/airplane-shape.png) !important;
                                 </li>
                                 <li id="menu-item-59"
                                 class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-has-mega-menu menu-item-61">
-                                <a><span>AIRLINERS</span></a>
+                                <a href="airlines.html"><span>AIRLINERS</span></a>
                                 <div class="mega-menu col-lg-12">
                                     <ul class="sub-menu mega-menu-row ">
                                         <li id="menu-item-783" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children mega-menu-col menu-item-783 "><a href="airlines.html"><span>AIRBUS A300</span></a>
@@ -315,12 +316,12 @@ background-image: url(./img/airplane-shape.png) !important;
                                                     data-zs-overlay="dots" data-zs-initzoom="1.2" data-zs-speed="20000"
                                                     data-zs-interval="4500" data-zs-switchSpeed="7000"
                                                     data-zs-arrows="true" data-zs-bullets="false"
-                                                    data-zs-src='[&#34;./img/Welcome to Goliath Aviation 1.jpg&#34;,&#34;./img/Aerospace.military.jpg&#34;,&#34;./img/Aviation.Made.Simple.jpg &#34;]'>
+                                                    data-zs-src='[&#34;./img/Welcome to Goliath Aviation 1.jpg&#34;,&#34;./img/Aerospace.military.jpg&#34;,&#34;./img/Aviation.Made.Simple.jpg &#34;]' style="position: relative;margin-top: 180px;">
                                                     <div class="container ltx-zs-slider-wrapper">
                                                         <div class="ltx-zs-slider-inner  inited visible  ltx-zs-slide-0"
                                                             data-index="0">
                                                             <div
-                                                                class="vc_row wpb_row vc_row-fluid vc_row-o-content-middle vc_row-flex text-align-center">
+                                                                class="vc_row wpb_row vc_row-fluid  vc_row-flex text-align-center">
                                                                 <div
                                                                     class="wpb_column vc_column_container vc_col-sm-12">
                                                                     <div class="vc_column-inner">
@@ -459,7 +460,7 @@ background-image: url(./img/airplane-shape.png) !important;
                                                                                 class="btn-wrap align-center btn-wrap-inline">
                                                                                 <a href="#get_in_touch"
                                                                                     class="btn  btn-main color-hover-white align-center"
-                                                                                    id="like_sc_button_1304281409">START
+                                                                                    id="like_sc_button_1304281409" >START
                                                                                     NOW</a></div>
                                                                             <div
                                                                                 class="btn-wrap align-center btn-wrap-inline">
@@ -1571,7 +1572,7 @@ background-image: url(./img/airplane-shape.png) !important;
 
                                  <div class="vc_column-inner vc_custom_1551316223973">
                                      <div class="wpb_wrapper">
-                                         <div class="es-resp">
+                                        <!-- <div class="es-resp">
                                              <div class="visible-xl" style="height: 64px;"></div>
                                              <div class="hidden-xl hidden-md hidden-sm hidden-ms hidden-xs"
                                                  style="height: 64px;"></div>
@@ -1579,13 +1580,13 @@ background-image: url(./img/airplane-shape.png) !important;
                                              <div class="visible-sm " style="height: 64px;"></div>
                                              <div class="visible-ms" style="height: 64px;"></div>
                                              <div class="visible-xs" style="height: 64px;"></div>
-                                         </div>
+                                         </div> -->
                                          <div class="form-black wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner">
                                              <div class="wpb_wrapper">  <div class="heading  header-subheader align-left color-white subcolor-main transform-default theme-icon-second icon-type-default   vc_custom_1551313977022 heading-tag-h2"
                                             id="like_sc_header_1703249853">
                                             <h5
-                                                class="header ltx-sr-id-like_sc_header_1703249853963662969 ltx-sr ltx-sr-effect-fade_in ltx-sr-el-block ltx-sr-delay-0 ltx-sr-duration-1000 ltx-sr-sequences-0">
-                                                GET IN TOUCH</h5>
+                                                class="header ltx-sr-id-like_sc_header_1703249853963662969 ltx-sr ltx-sr-effect-fade_in ltx-sr-el-block ltx-sr-delay-0 ltx-sr-duration-1000 ltx-sr-seuences-0"  >
+                                                Get In Touch</h5>
                                         </div>
                                         <div class="ltx-contact-form-7 transform-default form-center form-transparent form-bg-transparent form-style-default form-btn- form-btn- form-padding-none " id="like_sc_contact_form_7_634561440"><div role="form" class="wpcf7" id="wpcf7-f1558-p703-o1" lang="en-US" dir="ltr"><div class="screen-reader-response"></div>
 
@@ -1594,7 +1595,7 @@ background-image: url(./img/airplane-shape.png) !important;
                                         <form action="#" method="post" class="wpcf7-form" novalidate="novalidate">
                                            <div class="row">
                                                <div class="col-lg-12"> <span class="wpcf7-form-control-wrap field-header">
-                                                   <input type="text" name="field-header" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required" aria-required="true" aria-invalid="false" placeholder="Your name"></span></div>
+                                                   <input type="text" name="field-header" value="" size="40" class="  wpcf7-form-control wpcf7-text wpcf7-validates-as-required" aria-required="true" aria-invalid="false" placeholder="Your name"></span></div>
                                                    <div class="col-lg-12"> <span class="wpcf7-form-control-wrap field-header2">
                                                        <input type="text" name="field-header2" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required" aria-required="true" aria-invalid="false" placeholder="Your email"></span>
                                                     </div></div>
@@ -1968,10 +1969,10 @@ background-image: url(./img/airplane-shape.png) !important;
         </div>
         <section id="ltx-widgets-footer" class="ltx-fw">
             <div class="container">
-                <div class="row">
+                <div class="row" style="margin-top: -224px">
                     <div class="col-md-8 col-md-offset-2 text-align-center">
                         <div class="footer-widget-area">
-                            <a class="logo" href="#" style="max-height: 500px;"><img src="./img/G1 Logo with name.png"
+                            <a class="logo" href="#" style="max-height: 500px;"><img src="./img/G1 Logo with name_old.png"
                                     alt="goliathcorpration"  ></a>
                                     
                             <div id="text-14" class="widget widget_text">
@@ -2001,7 +2002,7 @@ background-image: url(./img/airplane-shape.png) !important;
         </section>
         <footer class="copyright-block copyright-layout-default">
             <div class="container">
-                <p><a href="https://www.goliathcorporation.com/">Copyright © Goliath Aviation Corporation-2020</a> </p>
+                <p><a href="https://www.goliathcorporation.com/">Copyright</a> © Goliath Aviation Corporation-2020 </p>
             </div>
         </footer>
     </div>
